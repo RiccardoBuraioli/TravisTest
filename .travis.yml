@@ -1,5 +1,5 @@
 language: java
 dist: trusty
 jdk:
- -openjkd8
+ -openjkd13
 script: ant build
